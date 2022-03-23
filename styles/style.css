@@ -1,0 +1,18 @@
+html {
+    font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+p, ul {
+    font-size: 20px;
+}
+h1 {
+    color: blueviolet;
+    font-size: 60px;
+    text-align: center;
+    font-weight: bolder;
+}
+h2 {
+    color: blueviolet;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
