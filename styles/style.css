@@ -4,7 +4,7 @@ html {
 }
 p {
     font-size: 20px;
-    color: lightcoral;
+    color: rgb(245, 187, 250);
 }
 h1 {
     color: lightseagreen;
@@ -21,10 +21,6 @@ h2 {
     font-weight: bold;
     text-decoration: underline;
 }
-ul {
-    color: rgb(189, 46, 46);
-    font-size: 20px;
-}
 body {
     width: 1280px;
     margin: 40px auto;
@@ -37,5 +33,6 @@ body {
     margin: 0 auto;
   }
   a {
-      color: lightcoral;
+      color: rgb(245, 187, 250);
+      font-size: 20px;
   }
