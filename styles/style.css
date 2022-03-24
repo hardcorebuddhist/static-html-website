@@ -1,18 +1,41 @@
 html {
     font-family: "Open Sans", sans-serif; /* this should be the rest of the output you got from Google fonts */
+    background-color: black;
 }
-p, ul {
+p {
     font-size: 20px;
+    color: lightcoral;
 }
 h1 {
-    color: blueviolet;
-    font-size: 60px;
+    color: lightseagreen;
+    font-size: 80px;
     text-align: center;
     font-weight: bolder;
+    margin: 0px;
+    padding: 20px 0;
 }
 h2 {
-    color: blueviolet;
+    font-size: 30px;
+    color: lightseagreen;
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
 }
+ul {
+    color: rgb(189, 46, 46);
+    font-size: 20px;
+}
+body {
+    width: 1280px;
+    margin: 40px auto;
+    background-color: black;
+    padding: 0 px 0px 0px;
+    border: 10px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  a {
+      color: lightcoral;
+  }
